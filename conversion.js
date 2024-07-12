@@ -20,8 +20,17 @@
 // "" = false
 //"hari"= true
 
-let s = 33
-let S = String(s)
-console.log(S)
-console.log(typeof S)
+// let s = 33
+// let S = String(s)
+// console.log(S)
+// console.log(typeof S)
 
+// console.log(true)
+// console.log(+true)
+// console.log(+"")
+
+// let count = 100;
+// count++
+// console.log(count)
+// ++count
+// console.log(count)
