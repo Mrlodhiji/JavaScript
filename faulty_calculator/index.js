@@ -1,7 +1,7 @@
 let random = Math.random();
 let a = prompt("enter the first number ");
-let b = prompt("enter the first number ");
-let c = prompt("enter the first number ");
+let c = prompt("enter the  operation ");
+let b = prompt("enter the second number ");
 
 let obj = {
     "+": "-",
